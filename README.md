@@ -4,10 +4,10 @@
 **.smx** eklentisini `addons/sourcemod/plugins` dizesine yükleyiniz.
 `addons/sourcemod/translations/store.phrases.txt` dosyasının son `}` öncesine altta vereceğim dili ekleyin.
 
-    "Skybox"
+	"Skybox"
 	{
-		"en" "skybox"
-		"tr" "skybox"
+                "en" "skybox"
+                "tr" "skybox"
 	}
 
 Eklenti kurulumu tamam sunucunuzu yeniden başlatmanız yeterli olacaktır.
@@ -18,7 +18,7 @@ Eklenti kurulumu tamam sunucunuzu yeniden başlatmanız yeterli olacaktır.
         {
         	"Alacakaranlık"
             {
-            	"path" "cs_baggage_skybox_"
+                "path" "cs_baggage_skybox_"
                 "price" "200000"
                 "type" "Skybox"
             }
